@@ -1,4 +1,5 @@
-kbsm1_enchantjs_Practice
+cat bubble
 ========================
 
-Template!
+猫が毛糸を投げて、上から降りてくる毛糸をたくさん毛糸を消してくゲーム
+
